@@ -75,7 +75,7 @@ export const BtnList = [
   },
   {
     label: "LinkedIn",
-    link: "https://www.linkedin.com/in/priyathik-raj",
+    link: "https://www.linkedin.com/in/priyathikraj/",
     icon: "linkedin",
     newTab: true,
   },
