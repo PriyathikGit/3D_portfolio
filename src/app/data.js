@@ -59,6 +59,13 @@ export const projectsData = [
     date: "2023-12-21",
     demoLink: "https://6672cece83621c15d9373ae7--neon-arithmetic-1c8375.netlify.app/",
   },
+  {
+    id: 7,
+    name: "Music nextjs landing page",
+    description: "Music landing page build by nextjs",
+    date: "2024-07-25",
+    demoLink: "https://music-nextjs-landing.vercel.app/",
+  },
   
 ];
 
